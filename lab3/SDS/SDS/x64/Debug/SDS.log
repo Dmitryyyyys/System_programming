@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  SDS.cpp
+C:\labs\СП\lab3\SDS\SDS\SDS.cpp(18,22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/SDS.cpp")
+  
+  SDS.vcxproj -> C:\labs\СП\lab3\SDS\x64\Debug\SDS.lib

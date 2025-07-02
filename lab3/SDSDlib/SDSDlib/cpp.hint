@@ -1,0 +1,2 @@
+﻿#define SDSDLIB_API __declspec(dllexport)
+#define SDSDLIB_API __declspec(dllimport)

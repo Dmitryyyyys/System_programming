@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|solutionrelative:SDSDlib\\SDSDlib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|solutionrelative:SDSDlib\\SDSDlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|solutionrelative:SDSDlib\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{89699861-C08A-48C9-AC23-5770E8E1C5D2}|SDSDlib\\SDSDlib.vcxproj|solutionrelative:SDSDlib\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13050943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1997951853:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2031669256:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:253279231:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2088629290:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:311361673:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1553926390:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:430974520:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1651208718:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71951129:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\framework.h",
+              "RelativeDocumentMoniker": "SDSDlib\\framework.h",
+              "ToolTip": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\framework.h",
+              "RelativeToolTip": "SDSDlib\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-18T16:18:47.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SDSDlib.h",
+              "DocumentMoniker": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.h",
+              "RelativeDocumentMoniker": "SDSDlib\\SDSDlib.h",
+              "ToolTip": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.h",
+              "RelativeToolTip": "SDSDlib\\SDSDlib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T07:45:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\dllmain.cpp",
+              "RelativeDocumentMoniker": "SDSDlib\\dllmain.cpp",
+              "ToolTip": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\dllmain.cpp",
+              "RelativeToolTip": "SDSDlib\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T07:45:45.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SDSDlib.cpp",
+              "DocumentMoniker": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.cpp",
+              "RelativeDocumentMoniker": "SDSDlib\\SDSDlib.cpp",
+              "ToolTip": "C:\\labs\\\u0421\u041F\\lab3\\SDSDlib\\SDSDlib\\SDSDlib.cpp",
+              "RelativeToolTip": "SDSDlib\\SDSDlib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T07:45:45.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

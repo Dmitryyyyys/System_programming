@@ -1,0 +1,30 @@
+﻿  dllmain.cpp
+  SDSDlib.cpp
+  Создание кода...
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(9,16): error C2039: "time": не является членом "std".
+  (компиляция исходного файла "/SDSDlib.cpp")
+      C:\labs\СП\lab3\SDSDlib\SDSDlib\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(9,16): error C3861: time: идентификатор не найден
+  (компиляция исходного файла "/SDSDlib.cpp")
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(9,5): error C3861: srand: идентификатор не найден
+  (компиляция исходного файла "/SDSDlib.cpp")
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(10,51): error C2039: "rand": не является членом "std".
+  (компиляция исходного файла "/SDSDlib.cpp")
+      C:\labs\СП\lab3\SDSDlib\SDSDlib\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(10,51): error C3861: rand: идентификатор не найден
+  (компиляция исходного файла "/SDSDlib.cpp")
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(11,10): error C2039: "sort": не является членом "std".
+  (компиляция исходного файла "/SDSDlib.cpp")
+      C:\labs\СП\lab3\SDSDlib\SDSDlib\predefined C++ types (compiler internal)(357,11):
+       см. объявление "std"
+  
+C:\labs\СП\lab3\SDSDlib\SDSDlib\SDSDlib.cpp(11,10): error C3861: sort: идентификатор не найден
+  (компиляция исходного файла "/SDSDlib.cpp")
+  
