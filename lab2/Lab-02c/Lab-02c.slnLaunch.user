@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "Writer\\Writer.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Reader\\Reader.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

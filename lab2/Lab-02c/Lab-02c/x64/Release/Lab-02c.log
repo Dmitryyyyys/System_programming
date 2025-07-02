@@ -1,0 +1,5 @@
+﻿  Reader.c
+C:\labs\СП\lab2\Lab-02c\Lab-02c\Reader.c(10,48): warning C4133: функция: несовместимые типы - из "char [19]" в "LPCWSTR"
+C:\labs\СП\lab2\Lab-02c\Lab-02c\Reader.c(15,64): warning C4133: функция: несовместимые типы - из "char [7]" в "LPCWSTR"
+Writer.obj : error LNK2005: main уже определен в Reader.obj
+C:\labs\СП\lab2\Lab-02c\x64\Release\Lab-02c.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

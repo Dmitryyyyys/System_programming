@@ -1,0 +1,8 @@
+﻿  Writer.c
+C:\labs\СП\lab2\Lab-02c\Lab-02c\Writer.c(11,43): warning C4133: функция: несовместимые типы - из "char [19]" в "LPCWSTR"
+C:\labs\СП\lab2\Lab-02c\Lab-02c\Writer.c(16,96): warning C4133: функция: несовместимые типы - из "char [7]" в "LPCWSTR"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Writer.vcxproj -> C:\labs\СП\lab2\Lab-02c\x64\Release\Writer.exe
