@@ -1,0 +1,6 @@
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.AssemblyReference.cache
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.csproj.CoreCompileInputs.cache
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.exe
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\obj\x64\Debug\CompilerIdCSharp.pdb
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\CompilerIdCSharp.exe
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\CMakeFiles\3.29.5-msvc4\CompilerIdCSharp\CompilerIdCSharp.pdb

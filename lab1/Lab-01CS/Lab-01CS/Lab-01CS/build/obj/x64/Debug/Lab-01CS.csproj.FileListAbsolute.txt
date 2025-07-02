@@ -1,0 +1,6 @@
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\Debug\Lab-01CS.exe
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\Debug\Lab-01CS.pdb
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\obj\x64\Debug\Lab-01CS.csproj.AssemblyReference.cache
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\obj\x64\Debug\Lab-01CS.csproj.CoreCompileInputs.cache
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\obj\x64\Debug\Lab-01CS.exe
+C:\labs\СП\lab1\Lab-01CS\Lab-01CS\Lab-01CS\build\obj\x64\Debug\Lab-01CS.pdb
