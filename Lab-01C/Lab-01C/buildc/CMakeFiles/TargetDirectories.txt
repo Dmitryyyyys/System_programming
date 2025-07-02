@@ -1,0 +1,3 @@
+C:/labs/СП/lab1/Lab-01C/Lab-01C/buildc/CMakeFiles/Lab-01C.dir
+C:/labs/СП/lab1/Lab-01C/Lab-01C/buildc/CMakeFiles/ALL_BUILD.dir
+C:/labs/СП/lab1/Lab-01C/Lab-01C/buildc/CMakeFiles/ZERO_CHECK.dir

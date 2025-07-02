@@ -1,0 +1,10 @@
+^C:\LABS\СП\LAB1\LAB-01C\LAB-01C\CMAKELISTS.TXT
+setlocal
+"C:\vs ))))))))))\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/labs/СП/lab1/Lab-01C/Lab-01C -BC:/labs/СП/lab1/Lab-01C/Lab-01C/buildc --check-stamp-file C:/labs/СП/lab1/Lab-01C/Lab-01C/buildc/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
